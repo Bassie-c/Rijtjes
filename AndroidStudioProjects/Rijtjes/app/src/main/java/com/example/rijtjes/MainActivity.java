@@ -13,3 +13,5 @@ public class MainActivity extends AppCompatActivity {
 }
 
 //Some changes
+
+//Some code, typed on laptop Bas
